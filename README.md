@@ -1,5 +1,5 @@
 # APNG2GIF
-bring APNGs to GIFs by Python. Quickly.Easily.Quantity.
+bring APNGs to GIFs by Python. Quickly. Easily. Quantity.
 
 Using apng2gif.exe from http://apng2gif.sourceforge.net/
 
